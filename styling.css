@@ -1,0 +1,41 @@
+body{
+text-align:center;
+background-color:#ccd9ff;
+font-family: "Lucida Handwriting";
+}
+
+div{
+margin: auto;
+overflow: auto;
+}
+img{
+border-radius: 50%;
+border: 1px solid
+}
+
+#demo{
+padding-left: 50px;
+padding-right:50px;
+margin-left: 250px;
+margin-right: 240px;
+border: 2px solid black;
+border-radius: 5px;
+height:auto;
+width:auto;
+background-color: black;
+color:white;
+font-family: "Courier New";
+}
+
+#p1{
+text-shadow: 2px 2px 5px black;
+}
+
+#p2{
+font-size: 25;
+}
+
+#p3{
+font-size: 40;
+}
+
